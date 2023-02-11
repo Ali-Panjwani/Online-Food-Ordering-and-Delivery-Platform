@@ -8,3 +8,5 @@ Project Functionalities and Specifications:
 - Utilized tools and platforms were Xampp and PhpMyAdmin
 
 The project was created utilizing XAMPP as the development platform. In order to run the project successfully, it is necessary to first install XAMPP and then navigate to the location where the project folder has been stored. Once the folder has been located, simply transfer the files to the XAMPP directory under htdocs to initiate the project. For furthur information, visit: https://www.apachefriends.org/
+
+Note: Please ensure that all the images associated with the project are located within the "Images" folder. It is imperative that these images be included with the rest of the project files in order for them to function as intended.
